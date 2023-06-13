@@ -1,7 +1,7 @@
 dependencies {
     shadowImplementation('com.github.GTNewHorizons:Enklume:2.0.0:dev')
 
-    api(project.files("libs/gregtech-5.09.43.86-localbeta2-dev.jar"))
+    api(project.files("libs/gregtech-5.09.43.86-localbeta4-dev.jar"))
     api('curse.maven:journeymap-32274:4500659')
 
     devOnlyNonPublishable('com.github.GTNewHorizons:TCNodeTracker:1.1.7:dev')
